@@ -1,0 +1,1 @@
+myBlog,Powered by [Ink](http://www.chole.io/)
